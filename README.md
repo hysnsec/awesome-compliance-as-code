@@ -51,7 +51,7 @@ A curated list of compliance resources ( Books, courses - free and paid, videos,
 
 ### Paid
 
-[Certified DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) by Mohammed A. Imran
+[Practical DevSecOps](https://www.practical-devsecops.com/certified-devsecops-professional/) by Mohammed A. Imran
 
 [Compliance Training](https://www.lynda.com/IT-Infrastructure-tutorials/Compliance-training/651205/747691-4.html) by Mike Chapple
 
@@ -170,7 +170,7 @@ A curated list of compliance resources ( Books, courses - free and paid, videos,
 
 [Pacbot](https://github.com/tmobile/pacbot) - Policy as Code Bot (PacBot) is a platform for continuous compliance monitoring, compliance reporting and security automation for the cloud.
 
-[Armor](https://www.armor.com/compliance/)
+[Armor](https://www.armor.com/compliance/) - Armor is a cloud security company that takes  the complexity out of protecting your data, whether it resides in a private, public, or hybrid cloud—or in an on-premise  IT environmen
 
 [Antiope](https://github.com/turnerlabs/antiope/) Antiope (PRONO An-Tie-Oh-Pee) is intended to be an open sourced framework for managing resources across hundreds of AWS Accounts
 
