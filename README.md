@@ -51,7 +51,7 @@ A curated list of compliance resources ( Books, courses - free and paid, videos,
 
 ### Paid
 
-[Practical DevSecOps](https://www.practical-devsecops.com/certified-devsecops-professional/) by Mohammed A. Imran
+[DevSecOps Professional Course](https://www.practical-devsecops.com/certified-devsecops-professional/) by Practical DevSecOps 
 
 [Compliance Training](https://www.lynda.com/IT-Infrastructure-tutorials/Compliance-training/651205/747691-4.html) by Mike Chapple
 
@@ -85,7 +85,7 @@ A curated list of compliance resources ( Books, courses - free and paid, videos,
 
 [Cloud Security and Compliance](https://www.youtube.com/watch?v=TXkpiB8CcJk) by Manipal ProLearn
 
-[Security Auditing and Compliance](https://www.youtube.com/watch?v=O_noXhQ16Yk) by David Zendzian , Steve White
+[Security Auditing and Compliance](https://www.youtube.com/watch?v=O_noXhQ16Yk) by David Zendzian, Steve White
 
 [Automating security compliance for physical, virtual, cloud, and container environments](https://www.youtube.com/watch?v=TKQ8l1yl3X4) by Lucy Huh Kerner
 
@@ -103,6 +103,10 @@ A curated list of compliance resources ( Books, courses - free and paid, videos,
 
 *Tutorials and blogs which explain security compliance*
 
+[Automating cloud compliance](https://www.csoonline.com/article/3215093/automating-cloud-compliance.html) by George Grachis
+
+[Security and Compliance: Why DevSecOps matters](https://www.devsecopsdays.com/articles/security-and-compliance-why-devsecops-matters)  by Swapnil Deshmukh
+
 [A Beginner’s Guide to PCI Compliance](https://www.tripwire.com/state-of-security/regulatory-compliance/beginners-guide-pci-compliance/) by Megan Freshley
 
 [Beginner’s Guide to Data Security and Information Security Compliance & Audits](https://genbin.genesys.com/old/resources/inin/beginners-guide-to-information-security.pdf) by Flavio Villanustre , Belinda Hickling
@@ -111,33 +115,16 @@ A curated list of compliance resources ( Books, courses - free and paid, videos,
 
 [A Step-by-Step Guide to Data Security Compliance by Industry](https://resources.infosecinstitute.com/step-step-guide-data-security-compliance-industry/#gref) by Infosec Institute
 
-[Security vs Compliance: Are You Secure & Compliant? Learn the Differences](https://phoenixnap.com/blog/security-vs-compliance) BY Bojana Dobran
+[Security vs Compliance: Are You Secure & Compliant? Learn the Differences](https://phoenixnap.com/blog/security-vs-compliance) by Bojana Dobran
 
-[Compliance vs. Security – Are You Secure AND Compliant, or Just Compliant?](https://www.pivotpointsecurity.com/blog/compliance-vs-security/) by pivotpoint Security
-
-[Compliance resource center](https://cloud.google.com/security/compliance/) by Google
+[Compliance vs. Security – Are You Secure AND Compliant, or Just Compliant?](https://www.pivotpointsecurity.com/blog/compliance-vs-security/) by Pivotpoint Security
 
 [What is Compliance Operations in a DevSecOps world?](https://www.devsecops.org/blog/2015/9/21/what-is-compliance-operations-in-a-devsecops-world) by  Michelle Nikulshin
 
-[Security and Compliance: Why DevSecOps matters](https://www.devsecopsdays.com/articles/security-and-compliance-why-devsecops-matters)  by Swapnil Deshmukh
-
 [Security Compliance](https://www.akamai.com/us/en/resources/security-compliance.jsp) by Akamai
-
-[Security and Compliance](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html) by AWS  
-
-[Amazon Web Services: Risk andCompliance](https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf) by AWS
-
-[Google Cloud Security and Compliance Whitepaper](https://static.googleusercontent.com/media/gsuite.google.com/en//files/google-apps-security-and-compliance-whitepaper.pdf) by Google
-
-[Information Security and Legal Compliance Whitepaper](http://docshare04.docshare.tips/files/27340/273404432.pdf) by  Kaspersky Lab
-
-[Security-and-Compliance-Whitepaper](https://logz.io/wp-content/uploads/2017/01/Security-and-Compliance-Whitepaper.pdf) by Logz
-
-[BLUEBEE DATA SECURITY & COMPLIANCE Whitepaper](https://www.bluebee.com/wp-content/uploads/2017/12/BlueBee-Security-Compliance-Whitepaper.pdf) by BlueBee
 
 [Data Security: The Foundation for Compliance and Reduction of Compliance Spend - White Paper](https://safenet.gemalto.com/resources/data-protection/data-security-compliance-white-paper/) by Safenet
 
-[Automating cloud compliance](https://www.csoonline.com/article/3215093/automating-cloud-compliance.html) by George Grachis
 
 
 # Tools 
@@ -153,6 +140,7 @@ A curated list of compliance resources ( Books, courses - free and paid, videos,
 [Lynis](https://cisofy.com/lynis/) - Lynis is a battle-tested security tool for systems running Linux, macOS, or Unix-based operating system. It performs an extensive health scan of your systems to support system hardening and compliance testing
 
 [HubbleStack](https://github.com/hubblestack) - Open-source security compliance monitoring. Free and open source software made possible by Adobe.
+
 
 ### Cloud tools
 
@@ -178,3 +166,6 @@ A curated list of compliance resources ( Books, courses - free and paid, videos,
 ## Contributing
 
 [Please refer the guidelines at contributing.md for details](Contributing.md).
+
+## Sponsored by
+![Practical DevSecOps](images/practical-devsecops-logo.png)
